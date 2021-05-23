@@ -7,7 +7,9 @@
 A hardworking College Student seeking opprtunities :woman_technologist:.
 
 - 🔭 I’m currently working on Imgur Clone ![logo](imgur1.png)
-- 🌱 I’m currently learning JavaScript ![logo]()javascript_logo.png)
+----
+- 🌱 I’m currently learning JavaScript ![logo](javascript_logo.png)
+____
 - 📫 Reach me at chhaviarora111@gmail.com :e-mail:
 - checkout to know more: :link: https://chhaviarora1401.github.io/-/
 <!--

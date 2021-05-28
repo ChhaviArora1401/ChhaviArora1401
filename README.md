@@ -5,6 +5,7 @@
 -->
 
 A hardworking College Student seeking opprtunities :woman_technologist:.
+![](https://visitor-badge.glitch.me/badge?page_id=ChhaviArora1401.ChhaviArora1401)
 
 - 🔭 I’m currently working on Imgur Clone ![logo](imgur1.png)
 ----

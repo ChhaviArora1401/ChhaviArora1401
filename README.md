@@ -7,8 +7,6 @@
 A hardworking College Student seeking opprtunities :woman_technologist:.
 ![](https://visitor-badge.glitch.me/badge?page_id=ChhaviArora1401.ChhaviArora1401)
 
-- 🔭 I’m currently working on Imgur Clone ![logo](imgur1.png)
-----
 - 🌱 I’m currently learning JavaScript ![logo](javascript_logo.png)
 ____
 - 📫 Reach me at chhaviarora111@gmail.com :e-mail:

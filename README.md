@@ -8,7 +8,7 @@ A hardworking College Student seeking opprtunities :woman_technologist:.
 ![](https://visitor-badge.glitch.me/badge?page_id=ChhaviArora1401.ChhaviArora1401)
 
 - 🌱 I’m currently learning JavaScript ![logo](javascript_logo.png)
-- 📫 Reach me at chhaviarora111@gmail.com :e-mail:
+- 📫 Reach me at chhaviarora1401@gmail.com :e-mail:
 - checkout to know more: :link: https://chhaviarora1401.github.io/-/
 <!--
 - Languages I use:

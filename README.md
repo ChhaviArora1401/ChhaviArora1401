@@ -7,11 +7,10 @@
   <img align="left" alt="Chhavi Arora | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> <a href="https://www.linkedin.com/in/ChhaviArora1401/">
   <img align="left" alt="Chhavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> 
+</a>  ![](https://visitor-badge.glitch.me/badge?page_id=ChhaviArora1401.ChhaviArora1401)
 
 
 A hardworking College Student seeking opprtunities :woman_technologist:. 
-![](https://visitor-badge.glitch.me/badge?page_id=ChhaviArora1401.ChhaviArora1401)
 
 - 📫 Reach me at chhaviarora1401@gmail.com :e-mail:
 - checkout to know more: :link: https://chhaviarora1401.github.io/-/

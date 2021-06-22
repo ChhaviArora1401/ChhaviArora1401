@@ -17,11 +17,7 @@ A hardworking College Student seeking opprtunities :woman_technologist:.
 - 📫 Reach me at chhaviarora1401@gmail.com :e-mail:
 - checkout to know more: :link: https://chhaviarora1401.github.io/-/
 
-<img height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
-<img height="40" src="https://cdn.svgporn.com/logos/css-3.svg">
-<img height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
-<img height="40" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-<a href="https://icons8.com/icon/20906/git">Git icon by Icons8</a>
+<img height="40" src="https://cdn.svgporn.com/logos/html-5.svg"><img height="40" src="https://cdn.svgporn.com/logos/css-3.svg"><img height="40" src="https://cdn.svgporn.com/logos/javascript.svg"><img height="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"><img src="https://img.icons8.com/color/48/000000/git.png"/>
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 

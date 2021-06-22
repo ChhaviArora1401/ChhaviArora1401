@@ -7,7 +7,7 @@
 <a href="https://twitter.com/">
   <img align="left" alt="Chhavi Arora | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/chhavi-arora-73071873/">
+<a href="https://www.linkedin.com/in/ChhaviArora1401/">
   <img align="left" alt="Chhavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 

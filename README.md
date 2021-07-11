@@ -1,7 +1,7 @@
 
 ### ✨Hello! I am Chhavi 👋✨
 
-<a href="">
+<a href="discord.com/chhaviarora1401#0028">
   <img align="left" alt="Chhavi's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> <a href="https://twitter.com/">
   <img align="left" alt="Chhavi Arora | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

@@ -12,7 +12,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ChhaviArora1401.ChhaviArora1401)
 
-A hardworking College Student seeking opportunities :woman_technologist:. 
+A hardworking College Student seeking opportunities :woman_technologist:!
 
 - 📫 Reach me at chhaviarora1401@gmail.com :e-mail:
 - Checkout to know more: :link: 
